@@ -1,2 +1,3 @@
 # Spam-Classifier
-Spam Classifier using Python and NLP concepts.
+
+Implementing a Spam classifier in python using Natural Language Processing. 
